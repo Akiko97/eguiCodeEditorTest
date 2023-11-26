@@ -1,3 +1,4 @@
 [submodule "lib/egui_code_editor"]
 	path = lib/egui_code_editor
 	url = https://github.com/Akiko97/egui_code_editor.git
+	branch = dev-linenum-highlighting
